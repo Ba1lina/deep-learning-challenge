@@ -5,11 +5,11 @@ In this project, the nonprofit foundation Alphabet Soup wants a tool that can he
 ## Initial Data
 
 Following the instructed preprocessing my initial model resulted in 72.26% accuracy and the model was fairly variable as it was processing the data
-**Training Results - Loss: 0.5571815371513367, Accuracy: 0.7226822376251221**
-![Accuracy](Images\acc_v1.png)
-![Loss](Images\loss_v1.png)
 
-![This is an image](https://www.example.com/image.jpg)
+**Training Results - Loss: 0.5571815371513367, Accuracy: 0.7226822376251221**
+
+![Accuracy](.\Images\acc_v1.png)
+![Loss](Images\loss_v1.png)
 
 ## Optimisation V1
 
