@@ -8,13 +8,15 @@ Following the instructed preprocessing my initial model resulted in 72.26% accur
 
 **Training Results - Loss: 0.5571815371513367, Accuracy: 0.7226822376251221**
 
-![Accuracy](.\Images\acc_v1.png)
+![Accuracy](./Images/acc_v1.png)
 ![Loss](Images\loss_v1.png)
 
 ## Optimisation V1
 
 For this I removed the ASK AMOUNT column as it had a lot of variablity and I thought it would make the learning more difficult. I also added NN units and increased the number of epochs to 100 as my initial choices seemed to be lacking for the amount of data. In the end the accuracy fell compared to the previous model
+
 **Training Results - Loss: 0.5563463568687439, Accuracy: 0.7223323583602905**
+
 ![Accuracy](Images\acc_v2.png)
 ![Loss](Images\loss_v2.png)
 
